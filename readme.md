@@ -6,10 +6,10 @@
 
 - 本项目的环境：
     - python：3.8.3
-    - numpy：
-    - pandas：
+    - numpy：1.19.2
+    - pandas：1.2.0
     - os：
-    - matplotlib：
+    - matplotlib：3.2.2
 
 - 本项目包含的内容：
     - 数据集（具体有哪些数据集这里需要进行考虑并添加）
